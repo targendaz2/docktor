@@ -1,7 +1,13 @@
 [package]
 name = "docktor"
 version = "0.1.0"
+authors = ["David G Rosenberg <david@dgrdev.com>"]
 edition = "2024"
+description = "Manages the macOS Dock's contents."
+readme = "README.md"
+repository = "https://github.com/targendaz2/docktor"
+license = "MIT"
+publish = false
 
 [dependencies]
 anyhow = "1.0"
